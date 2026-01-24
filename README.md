@@ -1,9 +1,7 @@
- ______     ______     _____     ______     __     __     __     ______   __  __     ______     __  __     _____     ______     ______    
-/\  ___\   /\  __ \   /\  __-.  /\  ___\   /\ \  _ \ \   /\ \   /\__  _\ /\ \_\ \   /\  == \   /\ \/\ \   /\  __-.  /\  == \   /\  __ \   
-\ \ \____  \ \ \/\ \  \ \ \/\ \ \ \  __\   \ \ \/ ".\ \  \ \ \  \/_/\ \/ \ \  __ \  \ \  __<   \ \ \_\ \  \ \ \/\ \ \ \  __<   \ \  __ \  
- \ \_____\  \ \_____\  \ \____-  \ \_____\  \ \__/".~\_\  \ \_\    \ \_\  \ \_\ \_\  \ \_\ \_\  \ \_____\  \ \____-  \ \_\ \_\  \ \_\ \_\ 
-  \/_____/   \/_____/   \/____/   \/_____/   \/_/   \/_/   \/_/     \/_/   \/_/\/_/   \/_/ /_/   \/_____/   \/____/   \/_/ /_/   \/_/\/_/ 
-                                                                                                                                          
+ __   __   __   ___        ___       __        __   __       
+/  ` /  \ |  \ |__  |  | |  |  |__| |__) |  | |  \ |__)  /\  
+\__, \__/ |__/ |___ |/\| |  |  |  | |  \ \__/ |__/ |  \ /~~\ 
+                                                             
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wishh.masterrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rudra Pratap singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rp0948566@gamil.com) 
