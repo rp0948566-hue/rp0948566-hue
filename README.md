@@ -109,68 +109,18 @@
 </div>
 
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
-
-</div>
+ 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rp0948566-hue&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rp0948566-hue&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rp0948566-hue&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rp0948566-hue&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7"/>
 
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=rp0948566-hue&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
-</picture>
-
-</div>
-
-## 🧊 3D Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-
-</div>
-
-## 👾 Space Shooter — Contributions as a Game
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/game.gif"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-**Thanks for stopping by — let's build something great ✌**
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div> 
