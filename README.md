@@ -20,10 +20,5 @@ The contribution graph becomes a playable arcade scene. GitHub Actions refreshes
   <img src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif" width="100%" 
 </p>
 
-<p align="center">
-  <a href="https://www.gitskins.com/readme-generator"><b>Use a contribution game in your README</b></a>
-</p>
-
-<br />
 
 
