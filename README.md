@@ -17,7 +17,7 @@
 The contribution graph becomes a playable arcade scene. GitHub Actions refreshes the animation daily and publishes it to this repository's `output` branch.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif" width="100%" alt="Animated contribution Space Shooter game" />
+  <img src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif" width="100%" 
 </p>
 
 <p align="center">
